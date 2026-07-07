@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-This repository contains my Java solutions to LeetCode problems solved during Data Structures & Algorithms (DSA) preparation.
+This repository contains my Java solutions to LeetCode problems solved during my Data Structures & Algorithms (DSA) preparation journey.
 
 ## Solved Problems
 
@@ -27,21 +27,55 @@ This repository contains my Java solutions to LeetCode problems solved during Da
 | ----------- | ------------- | ---------- | ---------- |
 | LC912       | Sort an Array | Medium     | Merge Sort |
 
+### Bit Manipulation
+
+| Problem No. | Problem Name     | Difficulty | Approach                               |
+| ----------- | ---------------- | ---------- | -------------------------------------- |
+| LC136       | Single Number    | Easy       | XOR                                    |
+| LC191       | Number of 1 Bits | Easy       | Bit Manipulation                       |
+| LC338       | Counting Bits    | Easy       | Dynamic Programming + Bit Manipulation |
+### Math
+
+| Problem No. | Problem Name     | Difficulty | Approach                  |
+|-------------|------------------|------------|---------------------------|
+| LC3754      | Sum and Multiply | Easy       | Math / Digit Manipulation |
+
 ## Statistics
 
 * Arrays: 6 Problems
 * Linked List: 1 Problem
 * Sorting: 1 Problem
+* Bit Manipulation: 3 Problems
+* Math: 1 Problem
 
-**Total Problems Solved: 8**
+**Total Problems Solved: 12**
 
 ## Languages
 
 * Java
 
-## Goal
+## Current Progress
+
+* Daily LeetCode Practice
+* DSA Revision and Problem Solving
+* GitHub Consistency Tracking
+
+## Goals
 
 * Strengthen DSA concepts
 * Improve problem-solving skills
 * Prepare for coding interviews and placements
-* Maintain consistency by solving problems daily
+* Solve LeetCode problems consistently
+* Maintain a public coding portfolio on GitHub
+
+## Repository Structure
+
+```text
+LeetCode-Solutions
+│
+├── Arrays
+├── LinkedList
+├── Sorting
+├── BitManipulation
+└── README.md
+```
