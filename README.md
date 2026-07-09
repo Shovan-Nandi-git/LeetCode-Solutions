@@ -15,6 +15,13 @@ This repository contains my Java solutions to LeetCode problems solved during my
 | LC15        | 3Sum                               | Medium     | Sorting + Two Pointers        |
 | LC75        | Sort Colors                        | Medium     | Dutch National Flag Algorithm |
 
+### Two Pointers
+
+| Problem No. | Problem Name              | Difficulty | Approach     |
+| ----------- | ------------------------- | ---------- | ------------ |
+| LC11        | Container With Most Water | Medium     | Two Pointers |
+| LC344       | Reverse String            | Easy       | Two Pointers |
+
 ### Linked List
 
 | Problem No. | Problem Name        | Difficulty | Approach                     |
@@ -33,22 +40,26 @@ This repository contains my Java solutions to LeetCode problems solved during my
 | ----------- | ---------------- | ---------- | -------------------------------------- |
 | LC136       | Single Number    | Easy       | XOR                                    |
 | LC191       | Number of 1 Bits | Easy       | Bit Manipulation                       |
+| LC231       | Power of Two     | Easy       | Bit Manipulation                       |
 | LC338       | Counting Bits    | Easy       | Dynamic Programming + Bit Manipulation |
+
 ### Math
 
 | Problem No. | Problem Name     | Difficulty | Approach                  |
-|-------------|------------------|------------|---------------------------|
+| ----------- | ---------------- | ---------- | ------------------------- |
+| LC509       | Fibonacci Number | Easy       | Iterative DP              |
 | LC3754      | Sum and Multiply | Easy       | Math / Digit Manipulation |
 
 ## Statistics
 
 * Arrays: 6 Problems
+* Two Pointers: 2 Problems
 * Linked List: 1 Problem
 * Sorting: 1 Problem
-* Bit Manipulation: 3 Problems
-* Math: 1 Problem
+* Bit Manipulation: 4 Problems
+* Math: 2 Problems
 
-**Total Problems Solved: 12**
+**Total Problems Solved: 16**
 
 ## Languages
 
@@ -74,8 +85,10 @@ This repository contains my Java solutions to LeetCode problems solved during my
 LeetCode-Solutions
 │
 ├── Arrays
+├── TwoPointers
 ├── LinkedList
 ├── Sorting
 ├── BitManipulation
+├── Math
 └── README.md
 ```
