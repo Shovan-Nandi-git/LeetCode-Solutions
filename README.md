@@ -127,16 +127,8 @@ This repository contains my Java solutions to LeetCode problems solved during my
 DSA-Java
 │
 ├── Arrays
-│   ├── LC169_MajorityElement.java
-│   ├── LC88_MergeSortedArray.java
-│   ├── LC121_BestTimeToBuyAndSellStock.java
-│
 ├── Hashing
-│   └── LC2965_FindMissingAndRepeatedValues.java
-│
 ├── Recursion
-│   └── LC50_PowXN.java
-│
 ├── TwoPointers
 ├── LinkedList
 ├── Sorting
