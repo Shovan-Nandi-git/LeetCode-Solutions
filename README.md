@@ -11,6 +11,8 @@ This repository contains my Java solutions to LeetCode problems solved during my
 | LC169       | Majority Element                   | Easy       | Sorting / Boyer-Moore Voting Algorithm |
 | LC88        | Merge Sorted Array                 | Easy       | Two Pointers                           |
 | LC121       | Best Time to Buy and Sell Stock    | Easy       | Running Minimum                        |
+| LC238       | Product of Array Except Self       | Medium     | Prefix Product + Suffix Product        |
+| LC73        | Set Matrix Zeroes                  | Medium     | Row/Column Marking                     |
 | LC53        | Maximum Subarray                   | Medium     | Kadane's Algorithm                     |
 | LC42        | Trapping Rain Water                | Hard       | Prefix/Suffix Maximum Arrays           |
 | LC122       | Best Time to Buy and Sell Stock II | Medium     | Greedy                                 |
@@ -29,6 +31,15 @@ This repository contains my Java solutions to LeetCode problems solved during my
 | Problem No. | Problem Name                     | Difficulty | Approach               |
 | ----------- | -------------------------------- | ---------- | ---------------------- |
 | LC2965      | Find Missing and Repeated Values | Easy       | Frequency Array + Math |
+| LC1331      | Array Rank Transform             | Easy       | Sorting + Hash Mapping |
+
+---
+
+### Sliding Window
+
+| Problem No. | Problem Name                                   | Difficulty | Approach                         |
+| ----------- | ---------------------------------------------- | ---------- | -------------------------------- |
+| LC3         | Longest Substring Without Repeating Characters | Medium     | Sliding Window + Frequency Array |
 
 ---
 
@@ -87,8 +98,9 @@ This repository contains my Java solutions to LeetCode problems solved during my
 
 ## Statistics
 
-* Arrays: 13 Problems
-* Hashing: 1 Problem
+* Arrays: 15 Problems
+* Hashing: 2 Problems
+* Sliding Window: 1 Problem
 * Two Pointers: 2 Problems
 * Linked List: 1 Problem
 * Sorting: 1 Problem
@@ -96,7 +108,7 @@ This repository contains my Java solutions to LeetCode problems solved during my
 * Recursion / Binary Exponentiation: 1 Problem
 * Math: 2 Problems
 
-**Total Problems Solved: 25**
+**Total Problems Solved: 29**
 
 ---
 
@@ -132,6 +144,7 @@ DSA-Java
 │
 ├── Arrays
 ├── Hashing
+├── SlidingWindow
 ├── Recursion
 ├── TwoPointers
 ├── LinkedList
